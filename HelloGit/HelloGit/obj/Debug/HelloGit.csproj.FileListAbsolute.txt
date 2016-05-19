@@ -1,0 +1,1 @@
+C:\Users\Admin\Source\Repos\FirstTestRepository\HelloGit\HelloGit\bin\Debug\HelloGit.exe.config
