@@ -11,6 +11,7 @@ namespace HelloGit2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Worlds!");
+            Console.WriteLine("Footer!");
             Console.ReadKey();
         }
     }
