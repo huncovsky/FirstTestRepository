@@ -12,6 +12,9 @@ namespace HelloGit2
         {
             Console.WriteLine("Hello Worlds!");
             Console.WriteLine("Footer!");
+            Console.WriteLine("Test1!");
+            Console.WriteLine("Test2!");
+            
             Console.ReadKey();
         }
     }
